@@ -1,0 +1,5 @@
+print str LithiumPC - Please type your operating code
+var.create c
+var.input c
+print str OK. Starting..
+run.me c
