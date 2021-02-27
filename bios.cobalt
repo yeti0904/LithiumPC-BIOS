@@ -1,15 +1,6 @@
-var.del
-print str you won't see this
 console.clear
-console.show
-print nln
-print str LithiumPC BIOS (Beta 0.2)
-print nln
-print str Please type your operating code:
-print nln
+print str LithiumPC BIOS v0.1.3
 var.create c
+print str Please type your operating code
 var.input c
-print str Ready to start: 
-print var c
-print nln
 run.me c
